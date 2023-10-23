@@ -1,6 +1,5 @@
 # SAE302
 PROJET SAE302
-Bonsoir,
 
 Je suis ravi de vous présenter notre dernière réalisation : un site internet dédié au partage de photos. Notre objectif était de créer une plateforme conviviale où les utilisateurs peuvent partager leurs plus belles photos, sans inscription. Nous avons réussi à mettre en place les fonctionnalités de base du site, bien que nous le considérons encore en version bêta, car certains éléments restent à finaliser.
 
